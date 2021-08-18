@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CHOISHO/vegetable/issues"
   },
-  "homepage": "https://github.com/CHOISHO/vegetable#readme"
+  "homepage": "https://github.com/CHOISHO/vegetable#readme",
+  "publishConfig": {
+   "@CHOISHO:registry": "https://npm.pkg.github.com"
+  }
 }
