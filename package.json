@@ -1,6 +1,6 @@
 {
   "name": "@choisho/vegetable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/CHOISHO/vegetable/issues"
   },
-  "homepage": "https://github.com/CHOISHO/vegetable#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/CHOISHO/vegetable#readme"
 }
