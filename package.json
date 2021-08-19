@@ -1,6 +1,6 @@
 {
-  "name": "@CHOISHO/vegetable",
-  "version": "1.0.0",
+  "name": "@choisho/vegetable",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CHOISHO/vegetable.git"
+    "url": "https://github.com/CHOISHO/vegetable.git"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/CHOISHO/vegetable#readme",
   "publishConfig": {
-   "@CHOISHO:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
